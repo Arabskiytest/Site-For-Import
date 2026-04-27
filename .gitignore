@@ -5,6 +5,6 @@ tmp/
 *_old
 *_backup
 
-# Системные файлы Windows и macOS
-Thumbs.db
-.DS_Store
+# Игнорировать файлы Thumbs.db и .DS_Store
+*Thumbs.db
+*.DS_Store
